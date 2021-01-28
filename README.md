@@ -43,6 +43,8 @@ This JS is needed for each step of the game and for event handlers upon user inp
                   //Change the activePlayer to 'X'
                   activePlayer = 'X';
               }
+![TTTimage](/tictactoegame.png?raw=true "Optional Title")              
+              
               
               
 This JS is needed for sound media to be used with user input:
